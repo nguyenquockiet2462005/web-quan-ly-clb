@@ -1,0 +1,23 @@
+```gitignore
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
